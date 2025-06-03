@@ -1,0 +1,1 @@
+Data PDFs stored in an AWS S3 bucket, extracts text with Amazon Textract, generates embeddings with Amazon Bedrock (Titan Embeddings), stores them in Amazon OpenSearch Serverless, and answers queries with citations using Anthropic Claude via a Streamlit app
